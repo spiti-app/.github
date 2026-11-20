@@ -22,7 +22,7 @@ Fabricator UI informed the stable body and expressive eyes. Grok Bot informed th
 |---|---|
 | Editable artboards | [Templates](templates.html) · [Static background](field.svg) · [Animated background](field-motion.svg) |
 | Website | [Masthead](web-masthead.png) · [Open Graph card](opengraph-image.png) |
-| Social | [Portrait](social-post.png) · [Square](social-square.png) · [Story](story.png) · [Avatar](logo-512.png) |
+| Social | [Portrait](social-post.png) · [Square](social-square.png) · [Story](story.png) · [Avatar](logo-512.png) · [GitHub organization avatar](github-avatar.png) |
 | Apple | [iOS master](ios-app-icon.png) · [macOS icon family](macos-app-icon.icns) · [Touch icon](apple-touch-icon.png) |
 | Browser | [Multisize ICO](favicon.ico) · [96 px favicon](favicon-96.png) |
 
