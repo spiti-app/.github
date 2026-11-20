@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("fonts/display.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: Inter;
+  src: url("fonts/inter-latin.woff2") format("woff2");
+  font-weight: 100 900;
+  font-display: swap;
+}
+:root {
+  --ink: #34231E;
+  --paper: #FFF4DD;
+  --accent: #F76C42;
+  --secondary: #F9C572;
+  --display: "Bricolage Grotesque", sans-serif;
+  --body: Inter, Arial, sans-serif;
+}

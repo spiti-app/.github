@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Porch pattern">
+  <style>@media(prefers-reduced-motion:no-preference){.moving{animation:slide 9s ease-in-out infinite alternate}@keyframes slide{to{transform:translate(55px,20px)}}}</style>
+  <rect x="0" y="0" width="1000" height="1000" fill="#F76C42"/>
+  <g class="moving">
+    <path d="M-380 1040 L380 -40 H510 L-250 1040Z" fill="#F9C572"/>
+    <path d="M-150 1040 L610 -40 H740 L-20 1040Z" fill="#F9C572"/>
+    <path d="M80 1040 L840 -40 H970 L210 1040Z" fill="#F9C572"/>
+    <path d="M310 1040 L1070 -40 H1200 L440 1040Z" fill="#F9C572"/>
+    <path d="M540 1040 L1300 -40 H1430 L670 1040Z" fill="#F9C572"/>
+    <path d="M770 1040 L1530 -40 H1660 L900 1040Z" fill="#F9C572"/>
+    <path d="M1000 1040 L1760 -40 H1890 L1130 1040Z" fill="#F9C572"/>
+  </g>
+</svg>
